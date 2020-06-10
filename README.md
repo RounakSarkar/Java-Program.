@@ -1,5 +1,4 @@
-# Java-Program.
-List of Prime Numbers. 
+# List-of-Prime-Numbers.
 Input 1 should be lesser than Input 2. 
 Both the inputs should be positive.  
 Range must always be greater than zero.
